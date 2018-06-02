@@ -1,0 +1,47 @@
+Garchomp-Mega @ Garchompite  
+Ability: Rough Skin  
+EVs: 4 HP / 252 Atk / 252 Spe  
+Adamant Nature  
+- Hone Claws  
+- Earthquake  
+- Dragon Rush  
+- Fire Fang  
+
+Hoopa-Unbound @ Expert Belt  
+Ability: Magician  
+EVs: 200 HP / 252 SpA / 56 Spe  
+Quiet Nature  
+IVs: 1 Atk  
+- Trick Room  
+- Hyperspace Hole  
+- Hidden Power [Ice]  
+- Shadow Ball  
+
+Abomasnow-Mega @ Abomasite  
+Ability: Snow Warning  
+EVs: 148 Atk / 180 Def / 180 SpA  
+Naughty Nature  
+- Ice Punch  
+- Wood Hammer  
+- Rock Tomb  
+- Leech Seed  
+
+Xerneas @ Power Herb  
+Ability: Fairy Aura  
+EVs: 32 HP / 252 SpA / 224 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Focus Blast  
+- Geomancy  
+- Moonblast  
+- Thunder  
+
+Blaziken-Mega @ Blazikenite  
+Ability: Speed Boost  
+EVs: 120 HP / 228 Atk / 160 Spe  
+Adamant Nature  
+- Flare Blitz  
+- Earthquake  
+- Swords Dance  
+- Shadow Claw  
+
